@@ -12,7 +12,7 @@ This is some text that I'm writing just to fill in some space.
 > That's what she said
 
 
-## TODAYS PRACTICE STARTS HERE
+## 2022-11-30 PRACTICE STARTS HERE
 
 ### Primer ejercicio
 
@@ -37,3 +37,9 @@ Pasos a seguir (marcar cuando se hayan realizado):
 Modificación 1: miau!
 
 Modificación 2: miau miau!
+
+#### Notas
+
++ Efectivamente, se puede hacer merge sin hacer push. Push es para actualizar el repositorio remoto (el que está en GitHub).
++ En este caso, estábamos imaginando que trabajábamos solo con un repositorio local (aunque, en realidad, este repositorio sí tiene una copia remota).
++ Desde que hice el push del branch today, no deja de aparecer en los logs como origin/today, aunque no es importante(tiene sentido que un branch se quede retrasada cuando deja de usarse). El realmente importante es origin/main: este debe actualizarse siempre y estar en la cabeza o relativamente cerca.
