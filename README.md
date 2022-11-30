@@ -31,5 +31,5 @@ Modificación 2: miau miau!
 
 + Efectivamente, se puede hacer merge sin hacer push. Push es para actualizar el repositorio remoto (el que está en GitHub).
 + En este caso, estábamos imaginando que trabajábamos solo con un repositorio local (aunque, en realidad, este repositorio sí tiene una copia remota).
-+ Desde que hice el push del branch ej2, no deja de aparecer en los logs como origin/today, aunque no es importante (tiene sentido que un branch se quede retrasado cuando deja de usarse). El realmente importante es origin/main: este debe actualizarse siempre y estar en la cabeza o relativamente cerca.
++ Desde que hice el push del branch today (del ejercicio anterior), no deja de aparecer en los logs como origin/today, aunque no es importante (tiene sentido que un branch se quede retrasado cuando deja de usarse). El realmente importante es origin/main: este debe actualizarse siempre y estar en la cabeza o relativamente cerca.
 + Cuidado con los push de branches secundarios: ten en cuenta dónde estás trabajando, en qué repositorio. Es el principal? Es tu copia donde, si la cagas, no pasa nada?
