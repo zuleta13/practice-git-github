@@ -34,6 +34,6 @@ Pasos a seguir (marcar cuando se hayan realizado):
 
 #### Realiza aquí las modificaciones
 
-Modificación 1:
+Modificación 1: miau!
 
 Modificación 2:
