@@ -59,3 +59,6 @@ Hola, soy Liz. Este es mi primer commit en esta rama.
     | Esto | debería |
     | ser | una |
     |tabla| . |
+
+Quiero probar a subrayar texto usando guiones.
+---------------------------------------------
