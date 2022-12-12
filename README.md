@@ -33,3 +33,22 @@ Modificación 2: miau miau!
 + En este caso, estábamos imaginando que trabajábamos solo con un repositorio local (aunque, en realidad, este repositorio sí tiene una copia remota).
 + Desde que hice el push del branch today (del ejercicio anterior), no deja de aparecer en los logs como origin/today, aunque no es importante (tiene sentido que un branch se quede retrasado cuando deja de usarse). El realmente importante es origin/main: este debe actualizarse siempre y estar en la cabeza o relativamente cerca.
 + Cuidado con los push de branches secundarios: ten en cuenta dónde estás trabajando, en qué repositorio. Es el principal? Es tu copia donde, si la cagas, no pasa nada?
+
+
+
+## 2022-12-12 PRACTICE STARTS HERE
+
+### Primer ejercicio
+
+Pasos a seguir:
++ hacer un commit-push para que este enunciado quede como el último commit tanto en el repositorio local como en el remoto.
++ tomando este commit como origen, crear un branch para Liz.
++ ir al branch de Liz y hacer un commit para indicar que es el primer commit de ese branch
++ hacer un push para sincronizar este repositorio con el remoto (tendría que aparecer el branch de Liz)
++ realizar más cambios en el espacio designado para ella. Hacer tres commits.
++ hacer push
++ finalmente, hacer un merge
+
+##### Nota: Según se desarrolle el ejercicio, revisar los logs para tener una respresentación del flujo de trabajo.
+
+#### Realizar las acciones de Liz aquí
