@@ -56,9 +56,10 @@ Hola, soy Liz. Este es mi primer commit en esta rama.
 
     Esta es una pruba de indentación en Markdown. Y será, también, el segundo commit. Gracias.
 
-    | Esto | debería |
-    | ser | una |
-    |tabla| . |
+| Esto   | debería |
+|--------|---------|
+| ser    | una     |
+| tabla  | .       |
 
-Quiero probar a subrayar texto usando guiones.
----------------------------------------------
+*No se puede subrayar texto usando reglas de Markdown. Podría hacerse con HTML. En cambio, pongo el texto en cursiva.*
+
