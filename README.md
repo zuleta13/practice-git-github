@@ -52,3 +52,4 @@ Pasos a seguir:
 ##### Nota: Según se desarrolle el ejercicio, revisar los logs para tener una respresentación del flujo de trabajo.
 
 #### Realizar las acciones de Liz aquí
+Hola, soy Liz. Este es mi primer commit en esta rama.
