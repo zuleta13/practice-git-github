@@ -73,7 +73,8 @@ En este ejercicio, vamos a practicar la creación y copia de branches locales en
 
 Pasos a seguir:
 + creación de un branch local con main como base
-+ mediante el commando git push -u nombre, crear el branch en GitHub y sincronizarlos de modo que las siguientes veces que quieras hacer un push, no tengas que especificar dónde quieres que se produzca.
++ mediante el commando git push -u origin nombre, crear el branch en GitHub y sincronizarlos de modo que las siguientes veces que quieras hacer un push, no tengas que especificar dónde quieres que se produzca.
++ hacer un commit y usar el comando git push para copiar el commit en el remoto
 + crear otro branch local
 + en GitHub, crear un branch con el mismo nombre manualmente
 + en Git, realizar algún commit y hacer un git push origin nombre-del-branch para comprobar que se puede hacer así
