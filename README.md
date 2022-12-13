@@ -63,3 +63,21 @@ Hola, soy Liz. Este es mi primer commit en esta rama.
 
 *No se puede subrayar texto usando reglas de Markdown. Podría hacerse con HTML. En cambio, pongo el texto en cursiva.*
 
+
+
+## 2022-12-13 PRACTICE STARTS HERE
+
+### Primer ejercicio
+
+En este ejercicio, vamos a practicar la creación y copia de branches locales en el repositorio remoto. Asimismo, estudiaremos las posibilidades para conectar esos branches de manera que al hacer un push del branch actual en el local, los cambios aparezcan reflejados en el branch del remoto.
+
+Pasos a seguir:
++ creación de un branch local con main como base
++ mediante el commando git push -u nombre, crear el branch en GitHub y sincronizarlos de modo que las siguientes veces que quieras hacer un push, no tengas que especificar dónde quieres que se produzca.
++ crear otro branch local
++ en GitHub, crear un branch con el mismo nombre manualmente
++ en Git, realizar algún commit y hacer un git push origin nombre-del-branch para comprobar que se puede hacer así
++ enlazar los branches local y remoto con git push -u origin nombre-del-branch
++ hacer otro commit y hacer git push para comprobar que ahora están enlazados y que no hace falta añadir la información del branch remoto
+
+*Empezar el ejercicio despúes de esta línea*
