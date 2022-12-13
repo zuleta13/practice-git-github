@@ -84,3 +84,5 @@ Pasos a seguir:
 *Empezar el ejercicio despúes de esta línea*
 
 + cambio con el que realizaré el commit para luego hacer un push con el comando git push sin añadir más opciones porque las ramas local y remota ya están enlazadas.
+
++ dos: primer cambio para actualizar el branch remoto mediante el comando git push origin nombre
