@@ -88,3 +88,15 @@ Pasos a seguir:
 + dos: primer cambio para actualizar el branch remoto mediante el comando git push origin nombre
 
 + tres: segundo cambio para actualizar el branch remoto mediante git push (a secas)
+
+
+
+## 2022-12-17 PRACTICE STARTS HERE
+
+### Primer ejercicio
+
+Quiero probar qué secede cuando creas una rama a partir de main y, después, creas otra a partir de la primera y, después, haces un rebase de la primera. Qué pasa con la segunda? Se queda como estaba? También se ejecuta el rebase en ella por estar hecha con respecto a la primera?
+
+Interesante cuestión. Averigüemos la respuesta!
+
+Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el repositorio remoto.
