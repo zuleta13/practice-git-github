@@ -106,3 +106,7 @@ Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el 
 2. Las ramas "uno" y "dos" ya están hechas. Decidí crearlas desde el mismo commit (Do first part of exercise one) porque, en realidad, no necesito que "dos" empiece desde un commit más avanzado de "uno" con respecto a main. Si la cosa funciona, funciona independientemente de en qué commit de cada rama se haya generado la otra rama.
 
 3. Ahora voy a hacer un commit en main para hacer que las otras dos queden por detrás. Haré el rebase de "uno" y veré si ese rebase afecta a "dos".
+
+4. Notas importantes:
+  + el comando de rebase es: git rebase la-otra-rama
+  + como sospechaba, el que haya hecho un rebase de "uno" no afecta en nada a "dos": son dos ramas independientes. Si son ramas pertenecientes a personas diferentes, cada uno debe hacer con la suya lo que estime oportuno para estar al día con main. 
