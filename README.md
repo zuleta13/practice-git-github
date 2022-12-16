@@ -102,3 +102,7 @@ Interesante cuestión. Averigüemos la respuesta!
 Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el repositorio remoto.
 
 1. Este va a ser el primer commit. A partir de este crearé "uno", la primera rama partiendo de main.
+
+2. Las ramas "uno" y "dos" ya están hechas. Decidí crearlas desde el mismo commit (Do first part of exercise one) porque, en realidad, no necesito que "dos" empiece desde un commit más avanzado de "uno" con respecto a main. Si la cosa funciona, funciona independientemente de en qué commit de cada rama se haya generado la otra rama.
+
+3. Ahora voy a hacer un commit en main para hacer que las otras dos queden por detrás. Haré el rebase de "uno" y veré si ese rebase afecta a "dos".
