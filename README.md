@@ -100,3 +100,5 @@ Quiero probar qué secede cuando creas una rama a partir de main y, después, cr
 Interesante cuestión. Averigüemos la respuesta!
 
 Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el repositorio remoto.
+
+1. Este va a ser el primer commit. A partir de este crearé "uno", la primera rama partiendo de main.
