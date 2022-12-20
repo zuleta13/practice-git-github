@@ -112,3 +112,22 @@ Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el 
   + como sospechaba, el que haya hecho un rebase de "uno" no afecta en nada a "dos": son dos ramas independientes. Si son ramas pertenecientes a personas diferentes, cada uno debe hacer con la suya lo que estime oportuno para estar al día con main. 
 
 ---
+
+## 2022-12-20 PRACTICE STARTS HERE
+
+### Primer ejercicio
+
+El objetivo será realizar las mismas acciones que en el ejercicio que se encuentra en la carpeta "rebase". Se trata de crear dos ramas a partir de la principal para que dos personas trabajen sobre el mismo archivo por separado. Por qué? Un ejemplo de mierda. La cuestión es aprender a solucionar las situaciones confusas y conflictos que se pueden crear cuando algo así ocurre.
+
+Pasos:
++ se hará un commit con el enunciado.
++ se crearán las dos ramas a partir de ese commit: las ramas tendrán nombres Liz y Rodri.
++ Liz realizará algunos commits, hará push de su rama de trabajo y hará merge, comprobando antes que no se han producido cambios en la rama principal para evitar conflictos.
++ Rodri trabajará y hará commits locales. Después, al darse cuenta de que se han producido cambios en la rama principal, hará un rebase para poner su rama al día, y hará push y merge.
+
+Notas:
++ a lo largo del camino, con toda probabilidad, habrá que solucionar conflictos, hacer fetch y merge en diferentes momentos, comprobar las diferencias entre el archivo en el directorio de trabajo y el mismo archivo en el repositorio remoto o en la rama de trabajo de la otra persona (esto último se puede hacer? Probablemente no, a menos que la otra persona haya hecho un push de su rama de trabajo al repositorio remoto. Comprobarlo).
+
+#### Cambios generados por Liz
+
+#### Cambios generados por Rodri
