@@ -136,3 +136,8 @@ Notas:
 #### Cambios generados por Rodri
 1. My first commit.
 2. My second commit.
+
+Notas finales:
++ sí se puede comparar el archivo en el directorio de trabajo con el mismo archivo en las diferentes ramas del repositorio remoto (origin/main, origin/Liz, origin/Rodri...), y como todas las ramas están en este mismo ordenador, puedo comprarlas directamente desde el repositorio local con "git diff".
++ lo que aparentemente no puedo hacer es obtener los cambios de otras ramas locales, incluso si están sincronizadas con el repositorio remoto, mediante git fetch (para revisión) y git merge (para aplicar los cambios). Como git pull es git fetch + git merge, tampoco surte ningún efecto.
+Realizaré un par de pruebas más para estar seguro de esto último. Para ello, haré unos commits directamente en main e intentaré revisar y, en caso necesario, aplicaré los cambios en la rama correspondiente.
