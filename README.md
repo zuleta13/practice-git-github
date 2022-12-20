@@ -129,5 +129,6 @@ Notas:
 + a lo largo del camino, con toda probabilidad, habrá que solucionar conflictos, hacer fetch y merge en diferentes momentos, comprobar las diferencias entre el archivo en el directorio de trabajo y el mismo archivo en el repositorio remoto o en la rama de trabajo de la otra persona (esto último se puede hacer? Probablemente no, a menos que la otra persona haya hecho un push de su rama de trabajo al repositorio remoto. Comprobarlo).
 
 #### Cambios generados por Liz
+1. My first commit.
 
 #### Cambios generados por Rodri
