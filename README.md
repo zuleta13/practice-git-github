@@ -34,7 +34,7 @@ Modificación 2: miau miau!
 + Desde que hice el push del branch today (del ejercicio anterior), no deja de aparecer en los logs como origin/today, aunque no es importante (tiene sentido que un branch se quede retrasado cuando deja de usarse). El realmente importante es origin/main: este debe actualizarse siempre y estar en la cabeza o relativamente cerca.
 + Cuidado con los push de branches secundarios: ten en cuenta dónde estás trabajando, en qué repositorio. Es el principal? Es tu copia donde, si la cagas, no pasa nada?
 
-
+---
 
 ## 2022-12-12 PRACTICE STARTS HERE
 
@@ -63,7 +63,7 @@ Hola, soy Liz. Este es mi primer commit en esta rama.
 
 *No se puede subrayar texto usando reglas de Markdown. Podría hacerse con HTML. En cambio, pongo el texto en cursiva.*
 
-
+---
 
 ## 2022-12-13 PRACTICE STARTS HERE
 
@@ -89,7 +89,7 @@ Pasos a seguir:
 
 + tres: segundo cambio para actualizar el branch remoto mediante git push (a secas)
 
-
+---
 
 ## 2022-12-17 PRACTICE STARTS HERE
 
@@ -110,3 +110,5 @@ Hoy solo voy a trabajar localmente. Al finalizar el ejercicio, sincronizaré el 
 4. Notas importantes:
   + el comando de rebase es: git rebase la-otra-rama
   + como sospechaba, el que haya hecho un rebase de "uno" no afecta en nada a "dos": son dos ramas independientes. Si son ramas pertenecientes a personas diferentes, cada uno debe hacer con la suya lo que estime oportuno para estar al día con main. 
+
+---
