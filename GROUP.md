@@ -24,3 +24,6 @@ example: git fetch https://--------.git main
 git checkout FETCH_HEAD
 + after checking it out, if you want to merge your branch with that one:
 git merge FETCH_HEAD
+
+#### One more thing before closing this exercise
+I would like to check if it still works when the original repository is more than one commits ahead. What I want to be sure of is if this process will add all of the commits to the other repository.
