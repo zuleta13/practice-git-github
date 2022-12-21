@@ -15,3 +15,12 @@ For this exercise, practice will focus on how to update a forked repository when
 #### Add modifications here from branch Rodri
 1. My first commit from branch Rodri.
 2. My second commit from branch Rodri.
+
+#### Exercise final notes
++ when fetching a branch from another repository this is the command:
+git fetch repository-address branch-name
+example: git fetch https://--------.git main
++ once you fetched the branch, it is available to checkout in FETCH_HEAD:
+git checkout FETCH_HEAD
++ after checking it out, if you want to merge your branch with that one:
+git merge FETCH_HEAD
