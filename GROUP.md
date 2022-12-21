@@ -5,7 +5,7 @@
 
 ### Exercise one
 
-For this exercise, practice will focus on how to update a forked repository when there were changes made in the original one. For this purpose, git fetch and git merge will be used widely. Olso, it will consist on settling the steps to follow in the process of working with a forked repository.
+For this exercise, practice will focus on how to update a forked repository when changes are made in the original one. For this purpose, git fetch and git merge will be used widely. Olso, it will consist on settling the steps to follow in the process of working with a forked repository.
 
 #### Steps:
 + make a commit with this file filled with the wording for this exercise.
