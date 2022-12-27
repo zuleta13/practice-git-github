@@ -27,3 +27,24 @@ git merge FETCH_HEAD
 
 #### One more thing before closing this exercise
 I would like to check if it still works when the original repository is more than one commits ahead. What I want to be sure of is if this process will add all of the commits to the other repository.
+
+
+
+## 2022-12-27 PRACTICE
+
+### Exercise one
+
+En este ejercicio, Liz llevará a cabo una tarea en el otro ordenador y realizará commits en su rama de trabajo. Cuando haya terminado, creará un pull request. Rodri le pedirá que haga algunos cambios y mantendrán una conversación en el pull request. Cuando Liz haya cumplido los requerimientos del proyecto, Rodri mezclará la rama de trabajo de Liz con la rama principal del proyecto.
+
+#### Pasos
++ borrar el repositorio clonado del otro ordenador
++ volver a clonarlo
++ crear una rama de trabajo que se llamará Liz
++ en esa rama, realizar las tareas y hacer commits
++ hacer un pull request
++ revisar el pull request y pedir cambios
++ realizar los cambios y pedir una nueva revisión
++ aceptar los cambios y combinar el trabajo de Liz en la rama main del repositorio original
++ cerrar el pull request
+
+#### Espacio reservado para el trabajo de Liz
