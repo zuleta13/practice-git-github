@@ -48,3 +48,8 @@ En este ejercicio, Liz llevará a cabo una tarea en el otro ordenador y realizar
 + cerrar el pull request
 
 #### Espacio reservado para el trabajo de Liz
+1. Hola, soy Liz y este va a ser mi primer commit.
+2. Soy yo de nuevo, vengo a hacer mi segundo commit.
+3. Como soy una persona muy graciosa, mi tercer commit.
+4. Este será el penúltimo commit, lo prometo.
+5. Quinto, y último, commit.
